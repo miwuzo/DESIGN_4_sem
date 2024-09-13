@@ -1,0 +1,427 @@
+.page-main {
+
+  .tit {
+    position: absolute;
+    top: 190px;
+    left: 532px;
+    font-size: 40px;
+  }
+
+  .rect11 {
+    position: absolute;
+    bottom: 4017px;
+    width: 1920px;
+    height: 111px;
+    background-color: rgba(191, 147, 224, 0.498);
+  }
+  .z1 {
+    position: absolute;
+    top: 44px;
+    left: 636px;
+    font-size: 18px;
+  }
+  .z2 {
+    position: absolute;
+    top: 44px;
+    left: 911px;
+    font-size: 18px;
+  }
+  .z3 {
+    position: absolute;
+    top: 44px;
+    left: 1213px;
+    font-size: 18px;
+  }
+  .im1 {
+    position: absolute;
+    top: 7px;
+    right: 1548px;
+    width: 126px;
+    height: 122px;
+  }
+  .im2 {
+    position: absolute;
+    top: 24px;
+    right: 244px;
+    width: 60px;
+    height: 60px;
+  }
+  .cover {
+    position: absolute;
+    top: 112px;
+    width: 1920px;
+    height: 693px;
+  }
+  .but {
+    position: relative;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(37, 37, 37);
+    padding: 24px 8px 24px 8px;
+  }
+  .grid1 {
+    position: absolute;
+    top: 410px;
+    left: 535px;
+    display: grid;
+    row-gap: 15px;
+    column-gap: 17px;
+    width: 850px;
+    height: 155px;
+  }
+  .i2 {
+    position: relative;
+    grid-row: span 1;
+    grid-column: span 3;
+    background-color: rgb(253, 251, 255);
+  }
+  .fc2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 4px 0px;
+    margin: 11px 0px 16px 14px;
+  }
+  .hi1 {
+    position: relative;
+    font-size: 18px;
+  }
+  .text {
+    position: relative;
+    font-size: 14px;
+    color: rgb(133, 133, 133);
+  }
+  .i3 {
+    position: relative;
+    grid-row: span 1;
+    grid-column: span 1;
+    background-color: rgb(253, 251, 255);
+  }
+  .fc3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 7px 0px;
+    margin: 11px 0px 13px 14px;
+    width: 150px;
+  }
+  .fr1 {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px auto;
+    width: 70%;
+  }
+  .fc4 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 8px 0px;
+    margin: 8px 0px 15px;
+    width: 51px;
+  }
+  .t2 {
+    position: relative;
+    margin: 0px 17px 0px 22px;
+    font-size: 14px;
+    color: rgb(133, 133, 133);
+  }
+  .im7 {
+    position: relative;
+    width: 1px;
+    height: 70px;
+  }
+  .fc5 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 8px 0px;
+    margin: 8px 0px 15px;
+    width: 76px;
+  }
+  .t3 {
+    position: relative;
+    margin: 0px 30px 0px 34px;
+    font-size: 14px;
+    color: rgb(133, 133, 133);
+  }
+  .t1 {
+    position: absolute;
+    top: 899px;
+    left: 676px;
+    font-size: 32px;
+  }
+  .title {
+    position: absolute;
+    top: 1055px;
+    left: 246px;
+    font-size: 30px;
+  }
+  
+  .title3 {
+    position: absolute;
+    top: 2407px;
+    left: 246px;
+    font-size: 30px;
+  }
+  
+  .title4 {
+    position: absolute;
+    top: 3083px;
+    left: 246px;
+    font-size: 30px;
+  }
+
+  .r2 {
+    position: absolute;
+    top: 3906px;
+    left: 0px;
+    width: 1920px;
+    height: 222px;
+    background-color: rgba(191, 147, 224, 0.498);
+  }
+  .fc9 {
+    position: absolute;
+    bottom: 63px;
+    left: 246px;
+  }
+  .ht4 {
+    position: relative;
+    font-size: 16px;
+    color: rgb(40, 40, 40);
+  }
+  .fc8 {
+    position: absolute;
+    bottom: 59px;
+    left: 859px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .img1 {
+    position: relative;
+    width: 28px;
+    height: 21px;
+  }
+  .img15 {
+    position: relative;
+    margin: 28px 0px 23px;
+    width: 38px;
+    height: 21px;
+  }
+  .fc7 {
+    position: absolute;
+    bottom: 58px;
+    left: 904px;
+    display: flex;
+    flex-direction: column;
+  }
+  .im18 {
+    position: relative;
+    margin: 2px 10px 0px;
+    width: 100px;
+    height: 28px;
+  }
+  .im12 {
+    position: relative;
+    margin: 2px 10px 0px;
+    width: 22px;
+    height: 22px;
+  }
+  .fr2 {
+    position: relative;
+    display: flex;
+  }
+  .image1 {
+    position: relative;
+    width: 15px;
+    height: 15px;
+  }
+  .btn {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 16px 0px 0px 15px;
+    width: 370px;
+    max-width: 100%;
+    font-size: 16px;
+    text-align: center;
+    background-color: rgb(254, 211, 44);
+    padding: 21px 8px 21px 8px;
+    border: none;
+    outline: none;
+  }
+  .subtitle {
+    position: relative;
+    font-size: 22px;
+    margin-left: -50px;
+  }
+
+  .grid {
+    position: absolute;
+    top: 1126px;
+    left: 246px;
+    display: grid;
+    align-content: start;
+    column-gap: 28px;
+    width: 1430px;
+    height: 498px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .grid2 {
+    position: absolute;
+    top: 1800px;
+    left: 246px;
+    display: grid;
+    align-content: start;
+    column-gap: 28px;
+    width: 1430px;
+    height: 498px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  
+  .grid3 {
+    position: absolute;
+    top: 2481px;
+    left: 246px;
+    display: grid;
+    align-content: start;
+    column-gap: 28px;
+    width: 1430px;
+    height: 498px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  
+  .grid4 {
+    position: absolute;
+    top: 3155px;
+    left: 246px;
+    display: grid;
+    align-content: start;
+    column-gap: 28px;
+    width: 1430px;
+    height: 498px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  
+  .item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    grid-row: span 1;
+    grid-column: span 1;
+    background: var(--src) center center / 100% 100% no-repeat;
+  }
+  
+  .group {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 325px 0px 0px;
+  }
+  
+  .rect1 {
+    position: relative;
+    min-height: 161px;
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .flex_col {
+    position: absolute;
+    top: 14px;
+    left: 29px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 385px;
+    height: 137px;
+  }
+  
+  .flex_row {
+    position: relative;
+    display: flex;
+    gap: 0px 3px;
+    margin: 18px 0px 0px;
+    width: 100%;
+  }
+  
+  .info {
+    position: relative;
+    min-width: 0px;
+    font-size: 12px;
+  }
+  
+  .subtitle {
+    position: relative;
+    width: 100%;
+    font-size: 22px;
+    margin-left: 5px;
+  }
+  
+  .image1 {
+    position: relative;
+  }
+  
+  .btn {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 16px 0px 0px 15px;
+    width: 370px;
+    max-width: 100%;
+    font-size: 16px;
+    text-align: center;
+    background-color: rgb(254, 211, 44);
+    padding: 21px 8px 21px 8px;
+    border: none;
+    outline: none;
+  }
+  
+  .title2 {
+    position: absolute;
+    top: 1730px;
+    right: 1542px;
+    bottom: 2362px;
+    left: 246px;
+    width: 132px;
+    height: 36px;
+    font-size: 30px;
+  }
+  &.root {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 1920px;
+    height: 4128px;
+    background-color: rgb(255, 255, 255);
+  }
+ 
+  .flex_col6 {
+    position: absolute;
+    right: 246px;
+    bottom: 59px;
+    display: flex;
+    flex-direction: column;
+    gap: 67px 0px;
+  }
+  
+}
+
+h1, h2, h3, h4, h5, h6{
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    margin: 0;
+    border-width: 0;
+    opacity: 1;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
